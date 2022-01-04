@@ -1,25 +1,17 @@
----
-title: Online Hosted Instructions
+﻿---
+title: 온라인 호스팅 지침
 permalink: index.html
 layout: home
 ---
 
-# Content Directory
+# 콘텐츠 디렉터리
 
-Hyperlinks to each of the lab exercises and demos are listed below.
+아래에 각 사례 연구의 하이퍼링크 목록이 나와 있습니다.
 
-## Labs
+## 사례 연구
 
-{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-| Module | Lab |
+{% assign casestudy = site.pages | where_exp:"page", "page.url contains '/Instructions/CaseStudy'" %}
+| 모듈 | 사례 연구 |
 | --- | --- | 
-{% for activity in labs  %}| {{ activity.lab.module }} | [{{ activity.lab.title }}{% if activity.lab.type %} - {{ activity.lab.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
-{% endfor %}
-
-## Demos
-
-{% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
-| Module | Demo |
-| --- | --- | 
-{% for activity in demos  %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in casestudy  %}| {{ activity.casestudy.module }} | [{{ activity.casestudy.title }}{% if activity.casestudy.type %} - {{ activity.casestudy.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}

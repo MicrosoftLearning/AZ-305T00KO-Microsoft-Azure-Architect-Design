@@ -1,35 +1,30 @@
-# INF99X: Sample Course
+﻿# AZ-305: Microsoft Azure 인프라 솔루션 디자인
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+- **[사례 연구 링크(HTML 형식)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
+- **MCT인가요?** - [MCT용 GitHub 사용자 가이드](https://microsoftlearning.github.io/MCT-User-Guide-KO/)를 살펴보세요.
 
-## What are we doing?
+## Microsoft의 역할
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+이 과정을 지원하려면 과정 콘텐츠를 자주 업데이트하여 해당 과정에 사용된 Azure 서비스를 최신 상태로 유지해야 합니다.  Microsoft는 Azure 플랫폼의 변경 내용을 반영하여 콘텐츠를 최신 상태로 유지하기 위해 과정 작성자들과 MCT가 GitHub에 자유롭게 콘텐츠를 게시할 수 있도록 GitHub에 사례 연구를 게시합니다.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+## 릴리스된 MOC 파일과 병행하여 이러한 파일을 사용하는 방법
 
-## How should I use these files relative to the released MOC files?
+- 강사 핸드북과 PowerPoint는 여전히 과정 콘텐츠를 가르치는 기본적인 자료로 사용될 것입니다. **제안 강사 설명 자료가 포함된 사례 연구 유인물도 제공됩니다**. 
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+- 트레이너는 강의를 할 때마다 GitHub에서 최신 Azure 서비스를 지원하기 위해 변경된 내용을 확인하고 최신 파일을 가져와서 강의에 사용하는 것이 좋습니다.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+## 수강생 핸드북 변경 방식
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- 수강생 핸드북은 분기별로 검토되며 필요에 따라 일반 MOC 릴리스 채널을 통해 업데이트됩니다.
 
-## What about changes to the student handbook?
+## 콘텐츠 제공 방법
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+- 모든 MCT는 GitHub 리포지토리의 코드 또는 콘텐츠에 대한 끌어오기 요청을 제출할 수 있습니다. Microsoft와 과정 작성자가 콘텐츠 및 변경 내용을 선별하고 필요에 따라 포함합니다.
 
-## How do I contribute?
+- MCT는 버그, 변경 사항, 개선 사항 및 아이디어를 제출할 수 있습니다.  Microsoft보다 먼저 새로운 Azure 기능을 찾았다면  새로운 데모를 제출해 주세요!
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+## 참고 사항
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+### 강의 자료
 
-## Notes
-
-### Classroom Materials
-
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+MCT와 파트너는 이러한 자료에 액세스하고 수강생에게 개별적으로 제공하는 것이 좋습니다.  수업 진행 중에 수강생에게 GitHub 단계를 직접 액세스하도록 하면 과정의 일부로 다른 UI에 액세스해야 하므로 수강생이 혼란을 겪을 수 있습니다. 수강생에게 별도의 지침을 사용해야 하는 이유를 설명하면 계속 변경되는 클라우드 기반 인터페이스 및 플랫폼의 특성을 강조하는 데 도움이 됩니다. GitHub 파일 액세스와 GitHub 사이트 탐색에 대한 Microsoft Learning 지원은 이 과정을 가르치는 MCT에게만 제공됩니다.
