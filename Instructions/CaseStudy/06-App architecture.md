@@ -21,7 +21,7 @@ Tailwind Traders는 마케팅부에서 제공한 기존 사진과 함께 고객�
 
  
 
-![앱 아키텍처](/media/Apparchitecture.png)
+![앱 아키텍처](media/Apparchitecture.png)
 
  
 
