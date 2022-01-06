@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '사례 연구(선택 사항): Fabrikam Residences'
     module: '사례 연구(선택 사항): Fabrikam Residences'

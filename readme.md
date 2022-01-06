@@ -1,4 +1,4 @@
-﻿# AZ-305: Microsoft Azure 인프라 솔루션 디자인
+# AZ-305: Microsoft Azure 인프라 솔루션 디자인
 
 - **[사례 연구 링크(HTML 형식)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
 - **MCT인가요?** - [MCT용 GitHub 사용자 가이드](https://microsoftlearning.github.io/MCT-User-Guide-KO/)를 살펴보세요.
