@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '거버넌스 솔루션 디자인'
     module: '거버넌스 솔루션'
