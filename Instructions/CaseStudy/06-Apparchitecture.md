@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '앱 인프라 솔루션 디자인'
     module: '앱 인프라 솔루션'
