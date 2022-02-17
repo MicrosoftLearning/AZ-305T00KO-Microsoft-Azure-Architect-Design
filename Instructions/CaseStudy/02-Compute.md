@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '컴퓨팅 솔루션 디자인'
     module: '컴퓨팅 솔루션'

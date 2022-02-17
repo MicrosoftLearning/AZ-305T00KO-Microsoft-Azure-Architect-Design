@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '공식 사례 연구 없음'
     module: '데이터 통합 솔루션'
